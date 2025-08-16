@@ -1,3 +1,3 @@
+pthdoc="${pthtop}"/export/cnf/xoxxox/docenv_envrcg
 cnfimg="${pthtop}"/export/cnf/xoxxox/docenv_evnrcg.txt
-pthdoc="${pthtop}"/export/cnf/xoxxox/docker
-imgtgt='xoxxox_envrcg:001'
+imgtgt='xoxxox/envrcg:001'
